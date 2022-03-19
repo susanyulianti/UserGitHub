@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserGitHub</string>
+    <string name="github_username">"@githubuser"</string>
+    <string name="user_github">User Github</string>
+    <string name="img">yeah! click me! I have a description</string>
+    <string name="splash_screen">Git Hub User</string>
+    <string name="github_names">Github Names</string>
+    <string name="github_repo">100 Repository</string>
+    <string name="github_company">company</string>
+    <string name="github_location">Location</string>
+    <string name="github_followers">100 Followers</string>
+    <string name="github_following">5 Following</string>
+    <string name="tab1">followers</string>
+    <string name="tab2">following</string>
+</resources>
